@@ -1,0 +1,21 @@
+body {
+background-color: rgb(77, 6, 99);
+color: beige;
+font-size: 18px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 27px;
+}
+
+
+
+ul {
+  list-style-type: circle;
+}
+
+footer {
+  font-size: 15px;
+}
+
